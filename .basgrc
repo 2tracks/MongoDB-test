@@ -1,0 +1,2 @@
+
+export Mongo_URI="mongodb+srv://root:r00tUserGabi@myfirstcluster-xtgte.mongodb.net/myTestDB?retryWrites=true&w=majority"
